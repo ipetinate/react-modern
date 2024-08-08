@@ -1,0 +1,4 @@
+body {
+  @apply w-screen h-screen;
+  @apply bg-gray-800 text-white;
+}
